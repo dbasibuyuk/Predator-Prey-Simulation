@@ -54,5 +54,13 @@ If a doodlebug has not eaten an ant within the last three time steps, then at th
 <img src = "https://raw.githubusercontent.com/dbasibuyuk/Predator-Prey-Simulation/master/uml.png">
 
 
+<img src = "https://github.com/dbasibuyuk/Predator-Prey-Simulation/blob/master/explanation.png?raw=true">
+
+
+
+Example : 
+
+
+<img src = "https://raw.githubusercontent.com/dbasibuyuk/Predator-Prey-Simulation/master/example.png">
 
 
